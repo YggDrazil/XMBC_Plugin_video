@@ -73,6 +73,27 @@ VIDEOS = {'Lesben': [{'name': 'Gym only for Three Lesbians',
                       'thumb': 'http://s20.bigcdn.cc/pub/cid/58eb0a4b356d7/main.jpg',
                       'video': 'http://s20.bigcdn.cc/pub/cid/58eb0a5f68ccf/720.mp4',
                       'genre': 'Ebony'}
+                     ],
+         'Russian': [{'name': 'Nedda from Russia',
+                      'thumb': 'http://s7.bigcdn.cc/pub/cid/58eb134dbc1ee/main.jpg',
+                      'video': 'http://s9.bigcdn.cc/pub/cid/58eb1a5d0ce03/720.mp4',
+                      'genre': 'Russian'},
+                      {'name': 'Relaxation before Fucking',
+                      'thumb': 'http://s2.bigcdn.cc/pub/cid/58eb1ce25c2e4/main.jpg',
+                      'video': 'http://s18.bigcdn.cc/pub/cid/58eb1c626c9f0/720.mp4',
+                      'genre': 'Russian'},
+                      {'name': 'Bonus for Good Work',
+                      'thumb': 'http://s13.bigcdn.cc/pub/cid/58eb19350ff4f/main.jpg',
+                      'video': 'http://s5.bigcdn.cc/pub/cid/58eb1a697533b/720.mp4',
+                      'genre': 'Russian'},
+                      {'name': 'Naked Surprise',
+                      'thumb': 'http://s6.bigcdn.cc/pub/cid/58eb39750d66f/main.jpg',
+                      'video': 'http://s4.bigcdn.cc/pub/cid/58eb1d424f587/720.mp4',
+                      'genre': 'Russian'},
+                     {'name': 'Sicilia and Haley Hill',
+                      'thumb': 'http://mirror.mydaddy.cc/pub/cid/58eb248bb988e/main.jpg',
+                      'video': 'http://s20.bigcdn.cc/pub/cid/58eb1e5c0c694/720.mp4',
+                      'genre': 'Russian'}
                      ]}
 
 
